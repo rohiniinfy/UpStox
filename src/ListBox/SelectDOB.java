@@ -38,6 +38,7 @@ public class SelectDOB {
 		s2.selectByVisibleText("1994");
 		
 		System.out.println("Script Executed Successfully!!!");
+		System.out.println("HII");
 		
 		
 	}
